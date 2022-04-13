@@ -27,10 +27,6 @@ bot_app = Client(
     "Douyinnn_bot",
     bot_token="5334963669:AAEFOj2VCaEl-ScqWJXeWDlEQLTPS_LVepo",
     # bot_token='5111025743:AAH-pAHXppygEAdVq_ugk9g7LoEKkrcdlyw',
-    proxy=dict(
-        hostname="127.0.0.1",
-        port=1080,
-    )
 )
 
 
